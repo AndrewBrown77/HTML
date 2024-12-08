@@ -10,12 +10,13 @@ header {
     padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: forestgreen;
-    color: beige; /*this shows the header's background color, text color, and the type of font*/
+    /*this shows the header's background color, text color, and the type of font*/
 }
 
 header h1 {
     display: inline-block;
     font-size: 48px; /*shows the font size and placement*/
+    color: beige; 
 }
 
 header nav {
@@ -26,16 +27,12 @@ header nav {
     font-size: 20px;/*shows the navagtion links css property's*/
 }
 
-header nav ul {
-    list-style-type: none; /*displays the way the list of navagations appear*/ 
-}
-
 header nav ul li {
     display: inline-block;
     margin-left: 25px;/* shows how far to the left the navagation start as well as the text being in line*/
 }
 
 a {
-    color: #ffffff;
     text-decoration: none;/*shows text color of the links and the decoration which is none*/
+    color: #ffffff;
 }
