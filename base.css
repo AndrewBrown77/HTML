@@ -36,3 +36,7 @@ a {
     text-decoration: none;/*shows text color of the links and the decoration which is none*/
     color: #ffffff;
 }
+
+.login {
+    background-color: black;
+}

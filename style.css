@@ -113,13 +113,6 @@ main article h2 {
     text-align: center;/*text alignment and the distance between h3 and the image underneath*/
 }
 
-.benefit-section img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px; /*shows provided image and its style*/
-}
-
-
 footer{
     padding: 30px;
     clear: both;
